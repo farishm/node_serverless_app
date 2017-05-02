@@ -1,7 +1,8 @@
 # node_serverless_app
-A Serverless application that can be run locally using serverless offline plugin.
-Data is stored in am in memory array
-Test is written using mocha and chai
+A Serverless application developed using Node.js, AWS Lambda, ES6, Serverless, Mocha and Chai.
+this can be run locally using serverless offline plugin.
+Data is stored in am in memory array.
+Test is written using mocha and chai.
 
 steps to run
 --------- 
@@ -40,5 +41,5 @@ http://localhost:3000/courses/reference/ASPNETB001
 http://localhost:3000/courses/duration/6
 
 Run the Tests
-
+---
 npm test
