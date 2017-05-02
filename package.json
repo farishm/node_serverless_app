@@ -1,0 +1,16 @@
+{
+  "name": "slsapp1",
+  "version": "1.0.0",
+  "description": "serverless application example",
+  "main": "handler.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "serverless-offline": "^3.13.5"
+  }
+}
